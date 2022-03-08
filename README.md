@@ -1,2 +1,3 @@
 # ejemplo08
-ejemplo de git
+Esto es un ejemplo de git
+
